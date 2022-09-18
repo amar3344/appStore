@@ -1,0 +1,17 @@
+.tab-list-container {
+  margin: 10px;
+}
+
+.display-tab-name {
+  font-size: 15px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #7b8794;
+  background-color: transparent;
+  border: none;
+}
+
+.isActiveClassName {
+  text-decoration: underline;
+  color: blue;
+}

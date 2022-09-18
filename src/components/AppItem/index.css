@@ -1,0 +1,22 @@
+.app-list-container {
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 5px;
+  text-align: center;
+  width: 150px;
+  height: 170px;
+}
+
+.app-image {
+  width: 70%;
+  height: 70%;
+  background-size: cover;
+}
+
+.app-name {
+  font-size: 15px;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  color: #000000;
+}
